@@ -1,2 +1,3 @@
 Hola, ¿qué hace?
-estudiando git
+bug corregido.
+terminado.
